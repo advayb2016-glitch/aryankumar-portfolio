@@ -2,10 +2,10 @@ import { Badge } from "@/components/ui/badge";
 
 const timeline = [
   {
-    year: "2029",
+    year: "2025",
     title: "UC San Diego - Jacobs Scholar",
     subtitle: "B.S. Computer Engineering",
-    description: "Expected graduation as Jacobs Scholar, the highest honor for incoming engineering students at UCSD",
+    description: "Started Computer Engineering @UCSD. Expected graduation as Jacobs Scholar, the highest honor for incoming engineering students at UCSD",
     type: "education",
   },
   {
