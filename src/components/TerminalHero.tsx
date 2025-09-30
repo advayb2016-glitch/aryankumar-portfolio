@@ -90,7 +90,7 @@ const TerminalHero = () => {
                         className="bg-primary hover:bg-primary/90 glow-primary transition-all"
                         onClick={() => document.getElementById("projects")?.scrollIntoView({ behavior: "smooth" })}
                       >
-                        View Projects
+                        View Experiences
                       </Button>
                       <Button
                         size="lg"
