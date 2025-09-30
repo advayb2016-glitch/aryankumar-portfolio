@@ -66,7 +66,7 @@ const ContactSection = () => {
 
           <div className="bg-card/30 backdrop-blur-sm border border-border rounded-2xl p-8">
             <p className="text-muted-foreground leading-relaxed">
-              Currently focusing on computer engineering studies at UC San Diego while remaining active 
+              Currently majoring in Computer Engineering at UC San Diego while remaining active 
               in research, development, and leadership roles. Particularly interested in projects at the 
               intersection of hardware and software, ML/AI applications, and solutions with measurable 
               real-world impact.
