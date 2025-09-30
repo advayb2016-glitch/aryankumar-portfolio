@@ -77,7 +77,7 @@ const TerminalHero = () => {
                         <span className="text-primary">Specialty:</span> PCB Design · Web Dev · ML Integration · Team Leadership
                       </div>
                       <div className="text-foreground/90">
-                        <span className="text-primary">Impact:</span> 4k+ users · $25k raised · Top 2% globally
+                        <span className="text-primary">Impact:</span> 40k+ users · $50k raised · Top 2% globally
                       </div>
                     </div>
                   </div>
