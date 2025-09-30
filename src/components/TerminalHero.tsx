@@ -105,7 +105,7 @@ const TerminalHero = () => {
 
                   <div className="flex items-start gap-4 text-xs text-muted-foreground pt-4">
                     <span>→</span>
-                    <div>Available for opportunities · San Diego, CA</div>
+                    <div>Open for opportunities · San Diego, CA</div>
                   </div>
                 </div>
               )}
