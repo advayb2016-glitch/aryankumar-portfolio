@@ -33,7 +33,7 @@ const projects = [
     year: "2024 - 2025",
   },
   {
-    title: "Custom PCB Systems",
+    title: "Jeong Lab Intern",
     tagline: "Hardware Engineering",
     description: "Designed and fabricated 5 custom PCBs in EagleCAD for the Jeong Lab. Integrated Bluetooth SoC improving connectivity stability by 25%.",
     tech: ["EagleCAD", "PCB Design", "Bluetooth", "Embedded Systems"],
@@ -51,7 +51,7 @@ const projects = [
     year: "2021 - 2025",
   },
   {
-    title: "Jetson UI/UX",
+    title: "Jetson UI/UX Intern",
     tagline: "Product Design & Testing",
     description: "Designed Figma-based UI boosting daily retention by 6%. Executed 100+ UI/UX tests, lowering post-release defects by 20%.",
     tech: ["Figma", "UI/UX", "Testing", "Analytics"],
@@ -69,7 +69,7 @@ const ProjectShowcase = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            <span className="text-gradient">Featured Projects</span>
+            <span className="text-gradient">Featured Experiences</span>
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             Building impactful solutions across hardware, software, and research
