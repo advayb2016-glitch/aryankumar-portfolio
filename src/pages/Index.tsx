@@ -2,7 +2,6 @@ import FloatingNav from "@/components/FloatingNav";
 import TerminalHero from "@/components/TerminalHero";
 import StatsCounter from "@/components/StatsCounter";
 import ProjectShowcase from "@/components/ProjectShowcase";
-import Philosophy from "@/components/Philosophy";
 import Timeline from "@/components/Timeline";
 import ContactSection from "@/components/ContactSection";
 
@@ -13,7 +12,6 @@ const Index = () => {
       <TerminalHero />
       <StatsCounter />
       <ProjectShowcase />
-      <Philosophy />
       <Timeline />
       <ContactSection />
       
