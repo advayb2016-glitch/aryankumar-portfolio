@@ -1,11 +1,10 @@
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
-import { Home, Briefcase, Lightbulb, Trophy, Mail } from "lucide-react";
+import { Home, Briefcase, Trophy, Mail } from "lucide-react";
 
 const navItems = [
   { icon: Home, label: "Top", href: "#top" },
   { icon: Briefcase, label: "Projects", href: "#projects" },
-  { icon: Lightbulb, label: "Philosophy", href: "#philosophy" },
   { icon: Trophy, label: "Achievements", href: "#achievements" },
   { icon: Mail, label: "Contact", href: "#contact" },
 ];
