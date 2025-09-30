@@ -2,12 +2,12 @@ import { useEffect, useRef, useState } from "react";
 import { Card } from "@/components/ui/card";
 
 const stats = [
-  { label: "Users Impacted", value: 4000, suffix: "+", icon: "👥" },
-  { label: "Funding Raised", value: 25, suffix: "k", prefix: "$", icon: "💰" },
+  { label: "Users Impacted", value: 40000, suffix: "+", icon: "👥" },
+  { label: "Funding Raised", value: 50, suffix: "k", prefix: "$", icon: "💰" },
   { label: "Global Ranking", value: 2, suffix: "%", prefix: "Top ", icon: "🏆" },
-  { label: "Championships", value: 5, suffix: "", icon: "🎯" },
+  { label: "Championships", value: 7, suffix: "", icon: "🎯" },
   { label: "Schools Served", value: 12, suffix: "+", icon: "🎓" },
-  { label: "Team Members Led", value: 6, suffix: "+", icon: "👨‍💼" },
+  { label: "Team Members Led", value: 25, suffix: "+", icon: "👨‍💼" },
 ];
 
 const StatsCounter = () => {
